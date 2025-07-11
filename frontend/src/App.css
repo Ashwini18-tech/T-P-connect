@@ -1,0 +1,15 @@
+/* Custom Toast Styling */
+.custom-toast {
+    background-color: #e0f2fe;   /* Light blue */
+    color: #1e3a8a;              /* Deep blue text */
+    font-family: 'Roboto', 'Segoe UI', sans-serif;
+    border-left: 6px solid #2563eb;
+    border-radius: 8px;
+    padding: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+  
+  .custom-toast-body {
+    font-size: 15px;
+  }
+  
